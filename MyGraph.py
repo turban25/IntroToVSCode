@@ -6,7 +6,7 @@ plt.plot(x, np.sin(x))
 
 plt.show()
 
-
+print("Hi there!")
 
 
 #step 1 Create your Vitrual Environment 
