@@ -3,11 +3,11 @@ import numpy as np
 
 x = np.linspac(0, 20, 100)
 plt.plot(x, np.sin(x))
-
 plt.show()
 
 print("Hi there!")
 
+print("Hello again!")
 
 #step 1 Create your Vitrual Environment 
     #PC  py -3 -m vev ______
@@ -18,4 +18,4 @@ print("Hi there!")
     #mac source myvenv/bin/activate
 
 #Step 3 Install 3rd party libraries
-    # pip3 install _______
+    #pip3 install _______
